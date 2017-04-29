@@ -1,0 +1,16 @@
+{
+  "name": "scrapers-benchmarks",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "repository": "laggingreflex/scrapers-benchmarks",
+  "dependencies": {
+    "nightmare": "latest",
+    "phantomjs-prebuilt": "latest",
+    "request-promise": "latest",
+    "zombie": "latest"
+  }
+}
