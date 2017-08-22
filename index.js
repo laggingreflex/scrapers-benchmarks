@@ -1,6 +1,7 @@
 const subjects = [
   'request',
   'zombie',
+  'puppeteer',
   'phantom',
   'nightmare',
 ].map(name => ({ name, fn: require('./' + name) }));

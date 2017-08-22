@@ -10,6 +10,7 @@
   "dependencies": {
     "nightmare": "latest",
     "phantomjs-prebuilt": "latest",
+    "puppeteer": "latest",
     "request-promise": "latest",
     "zombie": "latest"
   }
